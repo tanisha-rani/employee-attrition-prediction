@@ -37,7 +37,7 @@ This project aims to predict employee attrition (i.e., whether an employee is li
 - Web deployment using Flask/Streamlit
 
 ## 🤝 Contributors
-- Tanisha Rani(#) – Developed as part of the CipherSchool program
+- Tanisha Rani – Developed as part of the CipherSchool program
 
 ---
 
